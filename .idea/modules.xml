@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/CND.iml" filepath="$PROJECT_DIR$/.idea/CND.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ClicknDial/ClicknDial.iml" filepath="$PROJECT_DIR$/ClicknDial/ClicknDial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tess-two/jni/com_googlecode_tesseract_android/src/com_googlecode_tesseract_android.iml" filepath="$PROJECT_DIR$/tess-two/jni/com_googlecode_tesseract_android/src/com_googlecode_tesseract_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tess-two/tess-two.iml" filepath="$PROJECT_DIR$/tess-two/tess-two.iml" />
     </modules>
   </component>
 </project>

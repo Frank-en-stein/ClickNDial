@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="tess-two">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/tess-two/bin/tess-two.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
